@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Maryam Ezati
 
-🔹 Backend Developer  
+🔹 Java Backend Developer  
 
 ## 🛠️ Tech Stack
 
